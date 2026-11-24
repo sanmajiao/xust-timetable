@@ -6,7 +6,7 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [西科课表 1.4.0 APK](https://github.com/sanmajiao/xust-timetable/releases/download/v1.4.0/xust-timetable-1.4.0.apk) | 安装主应用，约 95 KB |
+| [西科课表 1.4.1 APK](https://github.com/sanmajiao/xust-timetable/releases/download/v1.4.1/xust-timetable-1.4.1.apk) | 安装主应用，约 98 KB |
 | [PDF 支持组件 1.0.0](https://github.com/sanmajiao/xust-timetable/releases/tag/pdf-v1.0.0) | 导入文字 PDF 时按需安装 |
 
-[查看 1.4.0 发布说明](https://github.com/sanmajiao/xust-timetable/releases/tag/v1.4.0)
+[查看 1.4.1 发布说明](https://github.com/sanmajiao/xust-timetable/releases/tag/v1.4.1)
